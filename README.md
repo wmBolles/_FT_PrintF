@@ -29,6 +29,3 @@ The Mandatory Part:
 ```
 gcc -Wall -Wextra -Werror ft_printf.c fmt/*.c -lft
 ```
-
-### Bonus Part
-comming soon...
